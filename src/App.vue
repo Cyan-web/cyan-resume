@@ -1,14 +1,7 @@
-<script setup lang="ts">
-// This starter template is using Vue 3 <script setup> SFCs
-// Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
-import HelloWorld from './components/HelloWorld.vue'
-
-const a = ref('1')
-</script>
-
 <template>
-  {{ a }}
+  <div />
 </template>
 
-<style>
-</style>
+<script lang="ts" setup></script>
+
+<style></style>
