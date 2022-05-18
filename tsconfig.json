@@ -14,16 +14,26 @@
             "esnext",
             "dom"
         ],
-        "skipLibCheck": true
+        "skipLibCheck": true,
+        "baseUrl": "../../Downloads",
+        "paths": {
+            "@/*": [
+                "./src/*"
+            ]
+        }
     },
     "include": [
         "src/**/*.ts",
         "src/**/*.d.ts",
         "src/**/*.tsx",
-        "src/**/*.vue"
+        "src/**/*.vue",
+        "./components.d.ts",
+        "./auto-imports.d.ts",
+        "vite.config.ts"
     ],
     "exclude": [
-        ".eslintrc-auto-import.json"
+        "node_modules",
+        "dist"
     ],
     "references": [
         {
