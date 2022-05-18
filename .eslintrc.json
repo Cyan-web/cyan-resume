@@ -23,15 +23,16 @@
         ".eslintrc-auto-import.json"
     ],
     "rules": {
+        "vue/multi-word-component-names": 0,
         // 引号
         "semi": [
             2,
             "never"
         ],
         // 禁止使用 var，而应该用 let 或 const
-        "no-var": "error",
+        "no-var": 2,
         // 禁用未使用变量
-        "no-unused-vars": "error",
+        "no-unused-vars": 2,
         // 数组空格
         "array-bracket-spacing": [
             2,
@@ -44,6 +45,10 @@
         ],
         // 四空格间隔
         "indent": [
+            2,
+            4
+        ],
+        "vue/html-indent": [
             2,
             4
         ]
