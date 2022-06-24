@@ -1,0 +1,100 @@
+{
+  "id": "3483570",
+  "name": "resume",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2654343",
+      "name": "HTML5",
+      "font_class": "HTML",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "3970670",
+      "name": "JavaScript",
+      "font_class": "JavaScript",
+      "unicode": "e704",
+      "unicode_decimal": 59140
+    },
+    {
+      "icon_id": "3970851",
+      "name": "HTML5-outline",
+      "font_class": "HTML-outline",
+      "unicode": "e705",
+      "unicode_decimal": 59141
+    },
+    {
+      "icon_id": "3970852",
+      "name": "CSS3",
+      "font_class": "CSS",
+      "unicode": "e706",
+      "unicode_decimal": 59142
+    },
+    {
+      "icon_id": "5618155",
+      "name": "CSS",
+      "font_class": "CSS1",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "5703768",
+      "name": "css",
+      "font_class": "css",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "6496026",
+      "name": "Vue",
+      "font_class": "Vue",
+      "unicode": "e799",
+      "unicode_decimal": 59289
+    },
+    {
+      "icon_id": "6496027",
+      "name": "React",
+      "font_class": "React",
+      "unicode": "e79a",
+      "unicode_decimal": 59290
+    },
+    {
+      "icon_id": "12904096",
+      "name": "HTML",
+      "font_class": "HTML1",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "12904097",
+      "name": "CSS",
+      "font_class": "CSS2",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "13303629",
+      "name": "javascript-map",
+      "font_class": "javascript-map",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "13304114",
+      "name": "typescript",
+      "font_class": "typescript",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "17810996",
+      "name": "html",
+      "font_class": "html",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

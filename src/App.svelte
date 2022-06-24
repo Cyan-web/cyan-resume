@@ -1,7 +1,14 @@
-<div class="text-red-500">
-    ceshi
+<div class="main w-screen h-screen py-5">
+    <Info />
 </div>
 
-<scripte>
+<script>
+    import Info from './components/Info.svelte'
+</script>
 
-</scripte>
+<style>
+    .main {
+        background: url('./assets/bg.svg') no-repeat center;
+        background-size: contain;
+    }
+</style>
